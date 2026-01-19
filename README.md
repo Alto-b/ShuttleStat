@@ -1,3 +1,6 @@
+<img width="192" height="192" alt="shuttle_stat_icon" src="https://github.com/user-attachments/assets/67e667d1-3106-4cb8-8d41-bdca187e3a3c" />
+
+
 # ShuttleStat 🏸
 
 ShuttleStat is a feature-rich Badminton Score Keeper application designed for ZeppOS smartwatches. It allows players to track scores, serves, streaks, and health statistics directly from their wrist.
